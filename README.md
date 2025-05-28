@@ -34,7 +34,7 @@ Whether you're building something innovative, looking to automate your workflows
 
 *“Build smart. Stay human.”*
 
-<img scr="https://loganeason.com/images/consulting-iso.png">
+[img](https://loganeason.com/images/consulting-iso.png)
 
 <!---
 tlogandesigns/tlogandesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
