@@ -4,12 +4,14 @@
 
 I'm a developer, educator, and creative problem-solver with over 15 years of experience in marketing, real estate, and digital solutions. I specialize in building tools that blend **AI automation** with **real-world workflows**, particularly for small businesses and real estate professionals.
 
-### Projects I'm Building
+### Projects I've Launched
 - **RealComply** – A Chrome extension ensuring Fair Housing compliance in real estate marketing.
   ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/pmbfaidcmhipmdeliplcfeaggfemopai?style=flat-square&label=Chrome%20Web%20Store%20Rating)
-- **Overcoming AI Anxiety** – A [book](https://www.amazon.com/dp/B0CXXX)teaching small business owners how to use AI without being tech experts.
-- **ML-Powered Agent Matching** – A project using machine learning to connect listing agents with the best-fit showing agents for open houses.
-- **Traffic Report Generator** – Automated tools for analyzing buyer data from new home sales offices using CSV input and OpenAI.
+- **Overcoming AI Anxiety** – A [book](https://www.amazon.com/dp/B0CXXX) teaching small business owners how to use AI without being tech experts.
+
+### Projects I'm Building
+- **Micro-Social Platforms** – A project using machine learning to connect mentees and with the best-fit mentors within niche communities.
+
 
 ### What I'm Passionate About
 - Using **AI to make businesses more efficient** without losing the human touch.
@@ -34,9 +36,4 @@ Whether you're building something innovative, looking to automate your workflows
 
 *“Build smart. Stay human.”*
 
-[img](https://loganeason.com/images/consulting-iso.png)
-
-<!---
-tlogandesigns/tlogandesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![img](https://loganeason.com/images/consulting-iso.png)
