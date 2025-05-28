@@ -6,20 +6,19 @@ I'm a developer, educator, and creative problem-solver with over 15 years of exp
 
 ### Projects I'm Building
 - **RealComply** – A Chrome extension ensuring Fair Housing compliance in real estate marketing.
-- ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/pmbfaidcmhipmdeliplcfeaggfemopai?style=flat-square&label=Chrome%20Web%20Store%20Rating)
-
-- **AI for Professionals** – A course and community teaching small business owners how to use AI without being tech experts.
+  ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/pmbfaidcmhipmdeliplcfeaggfemopai?style=flat-square&label=Chrome%20Web%20Store%20Rating)
+- **Overcoming AI Anxiety** – A [book](https://www.amazon.com/dp/B0CXXX)teaching small business owners how to use AI without being tech experts.
 - **ML-Powered Agent Matching** – A project using machine learning to connect listing agents with the best-fit showing agents for open houses.
 - **Traffic Report Generator** – Automated tools for analyzing buyer data from new home sales offices using CSV input and OpenAI.
 
 ### What I'm Passionate About
 - Using **AI to make businesses more efficient** without losing the human touch.
-- Creating **no-code/low-code tools** that anyone can use.
+- Creating **tools** that anyone can use.
 - Advocating for **compliance and ethical use of AI**, especially in regulated industries like real estate.
 - Helping others overcome “AI anxiety” through education and practical applications.
 
 ### Tech I Work With
-- **Languages:** JavaScript, Python, HTML/CSS, SQL  
+- **Languages:**  HTML/CSS, JavaScript, Python, SQL  
 - **Frameworks:** ExpressionEngine, Bootstrap, Node.js  
 - **Tools & APIs:** OpenAI, Zapier, Google Sheets API, GitHub, Chrome Extensions  
 - **Design & UX:** Adobe, Canva, Figma, Bootstrap
@@ -35,7 +34,7 @@ Whether you're building something innovative, looking to automate your workflows
 
 *“Build smart. Stay human.”*
 
-
+<img scr="https://loganeason.com/images/consulting-iso.png">
 
 <!---
 tlogandesigns/tlogandesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
