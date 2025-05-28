@@ -5,7 +5,7 @@
 I'm a developer, educator, and creative problem-solver with over 15 years of experience in marketing, real estate, and digital solutions. I specialize in building tools that blend **AI automation** with **real-world workflows**, particularly for small businesses and real estate professionals.
 
 ### Projects I've Launched
-- **RealComply** – A Chrome extension ensuring Fair Housing compliance in real estate marketing.
+- **RealComply** – A [Chrome extension](https://chromewebstore.google.com/detail/real-estate-compliance-ch/pmbfaidcmhipmdeliplcfeaggfemopai) ensuring Fair Housing compliance in real estate marketing.
   ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/pmbfaidcmhipmdeliplcfeaggfemopai?style=flat-square&label=Chrome%20Web%20Store%20Rating)
 - **Overcoming AI Anxiety** – A [book](https://www.amazon.com/dp/B0CXXX) teaching small business owners how to use AI without being tech experts.
 
