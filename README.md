@@ -6,6 +6,8 @@ I'm a developer, educator, and creative problem-solver with over 15 years of exp
 
 ### Projects I'm Building
 - **RealComply** – A Chrome extension ensuring Fair Housing compliance in real estate marketing.
+- ![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/pmbfaidcmhipmdeliplcfeaggfemopai?style=flat-square&label=Chrome%20Web%20Store%20Rating)
+
 - **AI for Professionals** – A course and community teaching small business owners how to use AI without being tech experts.
 - **ML-Powered Agent Matching** – A project using machine learning to connect listing agents with the best-fit showing agents for open houses.
 - **Traffic Report Generator** – Automated tools for analyzing buyer data from new home sales offices using CSV input and OpenAI.
